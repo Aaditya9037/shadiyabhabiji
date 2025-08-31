@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-image: url(images/Chutiyasam.jpg);
     background-repeat: no-repeat;
@@ -80,4 +81,88 @@ footer {
     border-radius: 5px;
     color: white;
     background-color: black;
+=======
+body {
+    background-image: url(images/Chutiyasam.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-clip: content-box;
+}
+content {
+    
+    text-align: center;
+    font-weight: 700; 
+    font-size: 14px;
+}
+header {
+    background-color: lightblue;
+    padding: 0px;
+    text-align: center;
+    border-radius: 10px;
+}
+article {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 20px;
+    
+    border-radius: 5px;
+}
+.btn-primary {
+    background-image: linear-gradient(to right, #4CAF50, #45a049);
+    border: none;
+    padding: 10px 10px;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.container1 {
+    text-align: center;
+    font-weight: 100;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    
+}
+
+    
+
+.container2 {
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(to right, #4CAF50, #45a049);
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    
+}
+.container2:span {
+    font-size: 14px;
+    color: thistle;
+
+}
+
+
+
+footer {
+    background-image: url(images/Rollexx.png);
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 14px;
+}
+.container4{
+    text-align: left;
+    font-weight: 100;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+>>>>>>> 621bb6baa52c7fa7b682d0d1e51ffb8144ea98bd
 }
